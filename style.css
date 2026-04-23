@@ -1,7 +1,9 @@
 .aliniar {
     background-color: rgb(44, 44, 44);
     border-radius: 20px;
-    padding: 20px;
+    padding: 40px;
+    max-width: 380px;
+    text-align: center;
 }
 body {
     background-color: rgb(91, 91, 91);
@@ -13,15 +15,22 @@ body {
     min-height: 100vh;
 }
 .boton {
-    background-color: gray;
+    background-color: #333333;
     width: 100%;
-    border: 2px solid #8e8e8e;
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 12px;
+    margin-bottom: 10px;
+    transition: 0.3s;
 }
 .boton:hover {
-    background-color: hsl(75, 94%, 57%);
-    color: black;
+    background-color: #c4f82a;
+    color: #141414;
+    cursor: pointer;
+}
+.enlaces {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
 }
