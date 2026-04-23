@@ -1,10 +1,10 @@
 .aliniar {
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(44, 44, 44);
     border-radius: 20px;
     padding: 20px;
 }
 body {
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(91, 91, 91);
     margin: 0;
     font-family: 'Figtre', sans-serif;
     display: flex;
@@ -15,7 +15,7 @@ body {
 .boton {
     background-color: gray;
     width: 100%;
-    border: 2px solid #6c6c6c;
+    border: 2px solid #8e8e8e;
     border-radius: 10px;
     padding: 10px 20px;
     font-size: 16px;
