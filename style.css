@@ -32,7 +32,7 @@ body {
     color: #141414;
     cursor: pointer;
 }
-.enlaces ul {
+.enlaces {
     display: flex;
     flex-direction: column;
     gap: 16px;
