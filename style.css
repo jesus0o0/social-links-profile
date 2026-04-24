@@ -77,3 +77,10 @@ h5 {
     background: #c4f82a;
     border-radius: 10px;
 }
+p {
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+    font-weight: 400;
+}
