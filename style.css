@@ -62,7 +62,7 @@ ul {
 }
 h3 {
     color: #c4f82a;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 0;
 }
 ::-webkit-scrollbar {
     width: 8px;
