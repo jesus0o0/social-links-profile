@@ -60,9 +60,12 @@ ul {
     from {opacity: 0; transform: translateY(20px); }
     to {opacity: 1; transform: translateY(0); }
 }
-h3 {
+h5 {
     color: #c4f82a;
-    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 ::-webkit-scrollbar {
     width: 8px;
